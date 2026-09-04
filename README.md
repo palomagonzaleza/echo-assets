@@ -17,6 +17,7 @@ Usá el **PNG**. Los clientes de correo no renderizan SVG, y Gmail bloquea las i
 
 | Archivo | Uso |
 |---|---|
+| `logos/taller-echo-logo.png` | Mails a Taller (685×76) |
 | `logos/kforce-echo-logo.png` | Mails a Kforce (940×120) |
 | `logos/kforce-echo-logo.svg` | Documentos y web |
 | `logos/taller-logo.svg` | Taller — no recolorear el ícono rojo |
